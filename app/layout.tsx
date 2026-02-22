@@ -156,11 +156,15 @@ export const metadata: Metadata = {
   },
 
   // ── Verification (add your real tokens when ready) ────────────────────────
+  // get it from here https://search.google.com/search-console/welcome
+  // <meta name="google-site-verification" content="BXhbCMdP4JBgiqOoOPa0opP1VwznkMgx5pZhAM1MEVI" />
   verification: {
-    // google: "your-google-site-verification-token",
+    google: "BXhbCMdP4JBgiqOoOPa0opP1VwznkMgx5pZhAM1MEVI",
     // yandex: "your-yandex-verification-token",
   },
 };
+
+
 
 export default async function RootLayout({
   children,
