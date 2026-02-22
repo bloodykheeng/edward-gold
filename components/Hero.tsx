@@ -2,7 +2,7 @@
 import { useEffect, useRef } from "react";
 
 const whatsappUrl =
-    "https://wa.me/256700000000?text=Hello%20Edward%20Gold%2C%20I%20am%20interested%20in%20your%20gold%20products.";
+    "https://wa.me/256752187948?text=Hello%20Edward%20Gold%2C%20I%20am%20interested%20in%20your%20gold%20products.";
 
 export default function Hero() {
     const parallaxRef = useRef<HTMLDivElement>(null);

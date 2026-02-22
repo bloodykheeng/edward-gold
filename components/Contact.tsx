@@ -1,13 +1,13 @@
 "use client";
 
 const whatsappUrl =
-    "https://wa.me/256700000000?text=Hello%20Edward%20Gold%2C%20I%20am%20interested%20in%20your%20gold%20products.";
+    "https://wa.me/256752187948?text=Hello%20Edward%20Gold%2C%20I%20am%20interested%20in%20your%20gold%20products.";
 
 const whatsappBuyUrl =
-    "https://wa.me/256700000000?text=Hello%20Edward%20Gold%2C%20I%20would%20like%20to%20buy%20gold.%20Please%20share%20details.";
+    "https://wa.me/256752187948?text=Hello%20Edward%20Gold%2C%20I%20would%20like%20to%20buy%20gold.%20Please%20share%20details.";
 
 const whatsappSellUrl =
-    "https://wa.me/256700000000?text=Hello%20Edward%20Gold%2C%20I%20have%20gold%20to%20sell.%20Can%20we%20discuss%3F";
+    "https://wa.me/256752187948?text=Hello%20Edward%20Gold%2C%20I%20have%20gold%20to%20sell.%20Can%20we%20discuss%3F";
 
 export default function Contact() {
     return (
@@ -78,7 +78,7 @@ export default function Contact() {
                 <div className="grid sm:grid-cols-3 gap-4 mb-12">
                     {[
                         { icon: "📍", label: "Location", val: "Kampala, Uganda" },
-                        { icon: "📞", label: "WhatsApp", val: "+256 700 000000" },
+                        { icon: "📞", label: "WhatsApp", val: "+256 752187948" },
                         { icon: "🌍", label: "Origins", val: "DRC · Uganda · Dubai" },
                     ].map((c) => (
                         <div key={c.label} className="bg-white/5 border border-white/10 rounded-xl p-5 text-center">

@@ -1,7 +1,7 @@
 "use client";
 
 const whatsappUrl =
-    "https://wa.me/256700000000?text=Hello%20Edward%20Gold%2C%20I%20am%20interested%20in%20purchasing%20gold%20from%20you.";
+    "https://wa.me/256752187948?text=Hello%20Edward%20Gold%2C%20I%20am%20interested%20in%20purchasing%20gold%20from%20you.";
 
 const specs = [
     { label: "Product Type", value: "Gold Bars / Gold Nuggets", icon: "🪙" },
